@@ -42,7 +42,7 @@ const ElementsPage = ({ data }, location) => {
             <code>
               for (;;) {"{"} ... {"}"}
             </code>
-            . Finally, this is a <a href="#">link</a>.
+            {/* . Finally, this is a <a href="#">link</a>. */}
           </p>
           <h2 id="heading-level-2">Heading Level 2</h2>
           <h3 id="heading-level-3">Heading Level 3</h3>
@@ -203,18 +203,18 @@ const ElementsPage = ({ data }, location) => {
           <hr />
           <h2 id="buttons">Buttons</h2>
           <ul className="actions">
-            <li>
+            {/* <li>
               <a href="#" className="button primary">
                 Primary
               </a>
-            </li>
-            <li>
+            </li> */}
+            {/* <li>
               <a href="#" className="button">
                 Default
               </a>
-            </li>
+            </li> */}
           </ul>
-          <ul className="actions">
+          {/* <ul className="actions">
             <li>
               <a href="#" className="button primary large">
                 Large
@@ -262,7 +262,7 @@ const ElementsPage = ({ data }, location) => {
             <li>
               <span className="button disabled">Default</span>
             </li>
-          </ul>
+          </ul> */}
           <hr />
           <h2 id="forms">Forms</h2>
           <form method="post" action="#">
@@ -365,15 +365,15 @@ const ElementsPage = ({ data }, location) => {
           <h2 id="code">Code</h2>
           <pre>
             <code>
-              i = <span style={{color: "rgb(191,90,242)"}}>0</span>;{"\n"}
-              {"\n"}<span style={{color: "rgb(10,132,255)"}}>while</span> (!deck.<span style={{color: "rgb(255,214,10)"}}>isInOrder</span>()) {"{"}
+              i = <span style={{ color: "rgb(191,90,242)" }}>0</span>;{"\n"}
+              {"\n"}<span style={{ color: "rgb(10,132,255)" }}>while</span> (!deck.<span style={{ color: "rgb(255,214,10)" }}>isInOrder</span>()) {"{"}
               {"\n"}
-              {"    "}print <span style={{color: "rgb(50,215,75)"}}>'Iteration '</span> + i;{"\n"}
-              {"    "}deck.<span style={{color: "rgb(255,214,10)"}}>shuffle</span>();{"\n"}
+              {"    "}print <span style={{ color: "rgb(50,215,75)" }}>'Iteration '</span> + i;{"\n"}
+              {"    "}deck.<span style={{ color: "rgb(255,214,10)" }}>shuffle</span>();{"\n"}
               {"    "}i++;{"\n"}
               {"}"}
               {"\n"}
-              {"\n"}print <span style={{color: "rgb(50,215,75)"}}>'It took '</span> + i + <span style={{color: "rgb(50,215,75)"}}>' iterations to sort the deck.'</span>;
+              {"\n"}print <span style={{ color: "rgb(50,215,75)" }}>'It took '</span> + i + <span style={{ color: "rgb(50,215,75)" }}>' iterations to sort the deck.'</span>;
             </code>
           </pre>
           <h2 id="grid-system">Grid system</h2>
