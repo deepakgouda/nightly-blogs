@@ -1,7 +1,7 @@
 ---
 title: The Sniper
 author: Deepak
-tags: [literature, short story]
+tags: [literature, short-story]
 date: "2021-01-16"
 thumbnail: ./images/saffu.jpg
 description: A short story by Liam O'Flaherty set during the onset of Irish Civil War.
