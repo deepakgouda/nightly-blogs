@@ -9,9 +9,10 @@ description: My notes on capturing and presenting the stars at Spiti
 In the April of this year (2021), I travelled to the Spiti valley in Himanchal Pradesh (India) along with four of my friends. Spiti, a cold desert is known for its massive rugged mountains, high altitude villages, snow leopards and clear night skies. I list out my notes and methodology to capture and present the night sky.
 
 ## 1. My gear
-I own a [*Nikon D5300*](https://www.nikonusa.com/en/nikon-products/product/dslr-cameras/d5300.html). It's apt for entry level photography and fashions a DX Image sensor. I pair my camera with AF-P DX NIKKOR 18-55 mm and 70-300 mm Telephoto lenses. I find myself clicking landscapes more often and while the wide angle 18-55 captures the massive dunes and skies perfectly, I have most fun with the telephoto lens. I also own the [*Digitek DTR 550 LW*](https://www.digitek.net.in/product/DIGITEK%20Lightweight%20Tripod%20DTR%20550LW) tripod. It takes up the  load of a DSLR paired with 300 mm telephoto lens and is light enough (1.5 KGs) to be carried up in long treks or hikes.
+I own a [*Nikon D5300*](https://www.nikonusa.com/en/nikon-products/product/dslr-cameras/d5300.html). It's apt for entry level photography and fashions a DX Image sensor. I pair my camera with an AF-P DX NIKKOR 18-55 mm lens and a 70-300 mm telephoto lens. I find myself clicking landscapes more often and while the wide angle 18-55 captures the massive dunes and skies perfectly, I have most fun with the telephoto lens. I also own the [*Digitek DTR 550 LW*](https://www.digitek.net.in/product/DIGITEK%20Lightweight%20Tripod%20DTR%20550LW) tripod. It takes up the  load of a DSLR paired with 300 mm telephoto lens and is light enough (1.5 KGs) to be carried up in long treks or hikes.
 
 Get a 32 GB SD card at least. For a 10 second timelapse at 30 fps, my camera takes up 6.6 GB of RAW images. Carry extra batteries as shoot times can stretch to hours.
+
 *Note : For long exposures and timelapses, tripod is a necessity.*
 
 ## 2. Planning the shoot timings
@@ -32,7 +33,7 @@ Switch to manual focus mode and open up the live view. Zoom into the brightest s
 #### 500 Rule
 While clicking images with a shutter speed of the magnitude of 15-30 seconds, the images start capturing the star trails. We do not want the trails in a single image as it distorts the clarity of stars and unless blended with other images to show the complete motion, hold no real value.
 
-500 Rule is a thumb rule to find the optimal shutter speed to avoid star trails. It states that, 500/(crop factor * focal length) should be the optimal shutter speed. For instance, my Nikon DSLR with a DX sensor has a crop factor of 1.5x and hence, for a focal length of 18 mm, my shutter speed should be 500/18*1.5 ~ 18.5 seconds. 
+500 Rule is a thumb rule to find the optimal shutter speed to avoid star trails. It states that, 500/(crop factor * focal length) should be the optimal shutter speed. For instance, my Nikon DSLR with a DX sensor has a crop factor of 1.5x and hence, for a focal length of 18 mm, my shutter speed should be 500/(18*1.5) ~ 18.5 seconds. 
 
 ![](images/red_trails.jpg)
 
@@ -57,10 +58,13 @@ In the above image, the shutter speed was 10 seconds and hence, the time delay h
 Once you have all of the frames, I prefer to weed out overexposed or frames and do some HSV corrections and image tuning like exposure, temperature, highlights and shadows. 
 
 #### Initial image edits and conversion to jpeg
-* To edit all of the images at once, select all of them and drag them into the title bar of photoshop. This will pop up the RAW image interface
-* Once the necessary adjustments are done, select all and sync the settings.
+* To edit all of the images at once, select all of them and drag them into the title bar of photoshop. This will pop up the RAW image interface.
 
 ![](./images/edit_window.jpg)
+
+* Once the necessary adjustments are done, select all and sync the settings.
+
+![](./images/save_images.jpg)
 
 * Save all images as jpeg in a separate folder and with a serial numbering as depicted. Preferably keep an sRGB colorspace as it is the standard setting for videos.
 
@@ -80,7 +84,6 @@ Once you have all of the frames, I prefer to weed out overexposed or frames and 
 ## 5. Stacking to form the trails
 You can also get the more dramatic and wow-inducing star trails in an image. Effectively, you stack up all the images in a sequential order to capture the motion of the stars.
 
-![](./images/axial_trails.jpeg)
 
 This process is relatively short and simple.
 To open the images in a stack, File->Scripts->Load files into stack.
@@ -91,6 +94,6 @@ You will get all of the frames in the Layers dash.
 
 In layers dashboard, select all of the frames and switch to _Lighten_, instead of the default _Normal_ layering setting. 
 
-![](./images/lighten.jpg)
+![](./images/axial_trails.jpeg)
 
 Voila! You got your image stack.
