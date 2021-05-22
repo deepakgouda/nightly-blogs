@@ -78,7 +78,7 @@ We'll start with `std::mt19937` first and come to `random_device` later.
 * `std::mt19937` : 
     1. Creates a random number generation engine based on [Mersenne Twister Algorithm](https://en.wikipedia.org/wiki/Mersenne_twister)
     2. Its periodicity is 2<sup>19937</sup> i.e. its range is [0, 2<sup>19937</sup>-1]. That's absolutely massive.
-    3. It is faster than true random methods (like `random_device` which relly on hardware devices)
+    3. It is faster than true random methods (like `random_device` which rely on hardware devices)
     4. Passes several statistical tests for randomness including [Diehard Tests](https://en.wikipedia.org/wiki/Diehard_tests).
     5. Not cryptographically secure.
 * `std::uniform_real_distribution<double> dist(a, b)` : 

@@ -9,7 +9,7 @@ description: A summary of BlockEval - a Blockchain simulator.
 *Acknowledgement : I am an author of the paper and the work stemmed from my Bachelor's Thesis along with [Shashwat Jolly](https://shashwatjolly.com/) and [Dr. Kalpesh Kapoor](https://www.iitg.ac.in/kalpesh/). Please reach out to me for any clarifications or suggestions.*
 
 ## Terminologies and Pre-requisite knowledge
-* Blockchain - Block, Node, Fork, Transaction, Mining, Consensus, Proof-of-Work,
+* Blockchain - Block, Node, Fork, Transaction, Mining, Consensus, Proof-of-Work
 * Artificial Neural Networks
 * XGBoost
 
