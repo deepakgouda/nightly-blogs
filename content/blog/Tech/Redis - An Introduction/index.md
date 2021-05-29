@@ -301,4 +301,5 @@ int main()
 }
 ```
 
-Further examples and usage documented [here](https://github.com/sewenew/redis-plus-plus#getting-started).
+Further C++ examples and usage documented [here](https://github.com/sewenew/redis-plus-plus#getting-started).
+C# Hash usage [here](http://taswar.zeytinsoft.com/redis-hash-datatype/) and Set usage [here](http://taswar.zeytinsoft.com/redis-sets-datatype/).
