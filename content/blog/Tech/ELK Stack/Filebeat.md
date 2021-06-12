@@ -3,7 +3,7 @@ title: Filebeat
 author: Deepak
 tags: [tech, framework]
 date: "2021-02-23"
-thumbnail: ./images/hutomo-abrianto.jpg
+thumbnail: ./images/dzukou.jpg
 description: Setting up Filebeat module of ELK stack [Part 2].
 ---
 

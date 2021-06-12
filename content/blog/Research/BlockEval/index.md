@@ -3,7 +3,7 @@ title: BlockEval - A Summary
 author: Deepak
 tags: [research, notes-and-summaries]
 date: "2021-05-16"
-thumbnail: ./images/primanti.jpg
+thumbnail: ./images/explorer.jpg
 description: A summary of BlockEval - a Blockchain simulator.
 ---
 *Acknowledgement : I am an author of the paper and the work stemmed from my Bachelor's Thesis along with [Shashwat Jolly](https://blog.shashwatjolly.com/) and [Dr. Kalpesh Kapoor](https://www.iitg.ac.in/kalpesh/). Please reach out to me for any clarifications or suggestions.*

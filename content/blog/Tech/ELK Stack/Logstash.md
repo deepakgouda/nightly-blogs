@@ -3,7 +3,7 @@ title: Logstash
 author: Deepak
 tags: [tech, framework]
 date: "2021-02-25"
-thumbnail: ./images/cameron-venti.jpg
+thumbnail: ./images/corbett.jpg
 description: Setting up Logstash module of ELK stack [Part 3].
 ---
 

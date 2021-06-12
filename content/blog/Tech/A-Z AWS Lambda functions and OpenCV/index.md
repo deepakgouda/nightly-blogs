@@ -3,7 +3,7 @@ title: A-Z AWS Lambda functions and OpenCV
 author: Deepak
 tags: [tech, framework, installation]
 date: "2021-02-07"
-thumbnail: ./images/diamond.jpg
+thumbnail: ./images/primanti.jpg
 description: Setting up an AWS lambda function and run an image processing operation.
 ---
 ## What is an AWS Lambda function?

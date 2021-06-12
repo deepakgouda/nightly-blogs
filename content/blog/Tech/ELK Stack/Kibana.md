@@ -3,7 +3,7 @@ title: Kibana
 author: Deepak
 tags: [tech, framework]
 date: "2021-02-27"
-thumbnail: ./images/giuseppe-argenziano.jpg
+thumbnail: ./images/agonda.jpg
 description: Setting up Kibana module of ELK stack [Part 4].
 ---
 

@@ -3,7 +3,7 @@ title: Self-managed ELK Stack
 author: Deepak
 tags: [tech, framework]
 date: "2021-02-22"
-thumbnail: ./images/orlando-brooke.jpg
+thumbnail: ./images/kalpa.png
 description: Introduction to ELK Stack [Part 1].
 ---
 

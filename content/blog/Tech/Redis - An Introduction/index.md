@@ -3,7 +3,7 @@ title: Redis - An Introduction
 author: Deepak
 tags: [tech, framework, database]
 date: "2021-05-15"
-thumbnail: ./images/patrik-kopco.jpg
+thumbnail: ./images/key-gompa.jpg
 description: My notes on setting up Redis and solving a standard problem.
 ---
 # What is Redis?

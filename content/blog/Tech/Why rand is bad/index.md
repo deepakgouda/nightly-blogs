@@ -3,7 +3,7 @@ title: Why rand() is bad?
 author: Deepak
 tags: [tech, language, C++]
 date: "2021-05-20"
-thumbnail: ./images/jared-poledna.jpg
+thumbnail: ./images/rock.jpg
 description: Why you should not use rand() and use <random>
 ---
 

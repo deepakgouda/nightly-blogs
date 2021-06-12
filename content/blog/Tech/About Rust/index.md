@@ -3,7 +3,7 @@ title: Rust - Fast and safe
 author: Deepak
 tags: [tech, language]
 date: "2021-03-07"
-thumbnail: ./images/nimesh-basu.jpg
+thumbnail: ./images/primanti.jpg
 description: Links I found useful about Rust.
 ---
 

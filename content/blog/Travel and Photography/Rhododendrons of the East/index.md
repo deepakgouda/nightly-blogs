@@ -3,7 +3,7 @@ title: Rhododendrons of the East
 author: Deepak
 tags: [travel]
 date: "2021-03-11"
-thumbnail: ./images/deepak-gouda.jpg
+thumbnail: ./images/everest.jpg
 description: Memoirs of a Himalayan trek
 ---
 

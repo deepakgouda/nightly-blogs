@@ -3,7 +3,7 @@ title: Go - Simple, concurrent code in minutes
 author: Deepak
 tags: [tech, language]
 date: "2021-03-07"
-thumbnail: ./images/benjamin-suter.jpg
+thumbnail: ./images/langza.png
 description: Links I found useful about Go.
 ---
 
