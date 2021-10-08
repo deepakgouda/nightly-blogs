@@ -21,22 +21,24 @@ const AboutPage = ({ data }, location) => {
             Hi, I'm Deepak! Glad that you have arrived here.
           </h2>
           <p id="about-me" align="center">
-            I am a 22 year old guy based out of India, currently
-            building trading algorithms.
+            I pack 22 years of life experience as a researcher, tech-enthusiast, 
+            avid reader, hobby trekker and photographer. I prize knowledge over most
+            things in life and can discuss an array of topics ranging from statistical
+            analysis and computer networks to norse mythology and stoic philosophy
           </p>
 
           <p id="about-my-work" align="center">
             Feel free to browse around and have a look at my
             blogs. I have added tags to the blogs for easier
-            navigation. I'm still building this site, so you
-            might find broken links or low resolution images.
+            navigation. All the images you see in blogs and galleries
+            are my own.
           </p>
           <figure className="kg-card kg-image-card kg-width-full">
             <Img
               fluid={data.benchAccounting.childImageSharp.fluid}
               className="kg-image"
             />
-            <figcaption>The minimalism I aspire to achieve</figcaption>
+            <figcaption></figcaption>
           </figure>
           {/* <h3 id="dynamic-styles">Dynamic styles</h3>
           <p>
@@ -73,7 +75,7 @@ const indexQuery = graphql`
       }
     }
     benchAccounting: file(
-      relativePath: { eq: "bench-accounting-49909-unsplash.jpg" }
+      relativePath: { eq: "bbbb.jpg" }
     ) {
       childImageSharp {
         fluid(maxWidth: 1360) {

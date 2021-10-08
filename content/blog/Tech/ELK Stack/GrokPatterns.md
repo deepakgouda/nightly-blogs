@@ -3,7 +3,7 @@ title: Grok Patterns
 author: Deepak
 tags: [tech, framework]
 date: "2021-02-26"
-thumbnail: ./images/roberto-nickson.jpg
+thumbnail: ./images/hampta.jpg
 description: Custom formatting rules and examples to parse logs.
 ---
 

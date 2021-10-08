@@ -3,7 +3,7 @@ title: Image Steganography
 author: Deepak
 tags: [tech, infosec]
 date: "2021-01-09"
-thumbnail: ./images/david-clode.jpg
+thumbnail: ./images/nako.jpg
 description: My checklist for image steganography challenges in CTFs
 ---
 

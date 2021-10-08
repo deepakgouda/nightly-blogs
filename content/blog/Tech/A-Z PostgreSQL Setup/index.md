@@ -3,7 +3,7 @@ title: A-Z PostgreSQL Setup
 author: Deepak
 tags: [tech, database, installation]
 date: "2021-01-03"
-thumbnail: ./images/alex-azabache.jpg
+thumbnail: ./images/shekwas.jpg
 description: My notes to setup Postgres DB and access over network
 ---
 

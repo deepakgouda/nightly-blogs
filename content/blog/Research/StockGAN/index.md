@@ -3,7 +3,7 @@ title: Generating Realistic Stock Market Order Streams - A Summary
 author: Deepak
 tags: [research, notes-and-summaries]
 date: "2021-05-29"
-thumbnail: ./images/spiti_river.png
+thumbnail: ./images/dal.jpg
 description: A summary of StockGANs - a market data simulator.
 ---
 

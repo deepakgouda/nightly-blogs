@@ -3,7 +3,7 @@ title: It's time for Docker
 author: Deepak
 tags: [tech, framework]
 date: "2021-06-04"
-thumbnail: ./images/nako.jpg
+thumbnail: ./images/kolahoi.jpg
 description: My notes on creating a docker image, spinning up containers and using docker volumes.
 ---
 

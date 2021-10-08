@@ -2,8 +2,8 @@
 title: Audio Steganography
 author: Deepak
 tags: [tech, infosec]
-date: "2021-01-09"
-thumbnail: ./images/hoodh-ahmed.jpg
+date: "2021-01-08"
+thumbnail: ./images/tabo_coll.jpg
 description: My checklist for audio steganography challenges in CTFs
 ---
 
